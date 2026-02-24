@@ -1,5 +1,4 @@
-# Emotion Detector Web Application
-
+# Final Project — Emotion Detector Web Application
 ## Overview
 
 This project is a simple AI-based web application that detects human emotions from text input.
